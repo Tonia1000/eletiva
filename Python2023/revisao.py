@@ -47,5 +47,5 @@ print("?uotxeS"[::-1])
 print("---------------------------------------------------------")
 #
 class Pessoa:
-    def __init__(self) -> None:
+    def __init__(self, nome):
         self.none=nome
